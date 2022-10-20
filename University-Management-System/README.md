@@ -1,5 +1,5 @@
 # University-Management-System
-> PHP, MySQL, HTML, Bootstrap, Xampp, PhpMyAdmin were used.
+> CSS, MySQL, HTML, PHP, Bootstrap, Xampp, PhpMyAdmin were used.
 ---
 - This project was developed for the Databases class 2019-2020 Spring semester.
 - Our system provides two options to log in, these are a student and a lecturer. Check the GIFs for more details or clone the repository.
