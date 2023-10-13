@@ -17,9 +17,9 @@
 ---
 ### Example Logins
 #### Student
-![Recordit GIF](http://g.recordit.co/C6INTaLzoQ.gif)
+http://g.recordit.co/C6INTaLzoQ.gif
 ------
 #### Lecturer
-![Recordit GIF](http://g.recordit.co/BRDRtMGmwY.gif)
+http://g.recordit.co/BRDRtMGmwY.gif
 ---
 If you need more clarification or have any question please create an issue. So, I can solve the problem fast.
